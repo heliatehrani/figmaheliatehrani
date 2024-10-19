@@ -1,0 +1,4 @@
+@import "./setting/setting.css";
+@import "./mobile/mobile.css" only screen and (min-width: 414px);
+@import "./tablet/tablet.css" only screen and (min-width: 834px);
+@import "./desktop/desktop.css" only screen and (min-width: 1366px);/*# sourceMappingURL=main.css.map */
